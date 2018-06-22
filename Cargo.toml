@@ -1,0 +1,7 @@
+[package]
+name = "linux-term-events"
+version = "0.1.0"
+authors = ["Erich Gubler <erichdongubler@gmail.com>"]
+
+[dependencies]
+failure = "0.1"
